@@ -1,0 +1,17 @@
+{
+ "name": "abdulganiyuysufu.com",
+ "icons": [
+  {
+   "src": "/images/favicon/android-chrome-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "density": "0.75"
+  },
+  {
+   "src": "/images/favicon/android-chrome-512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "density": "1.0"
+  }
+ ]
+}
