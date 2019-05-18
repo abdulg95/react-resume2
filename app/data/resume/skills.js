@@ -50,9 +50,19 @@ export const skills = [
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
-    title: 'React',
+    title: 'React Js',
     compentency: 4,
     category: ['Web Development', 'Frameworks', 'Javascript'],
+  },
+  {
+    title: 'React Native',
+    compentency: 4,
+    category: ['Mobile Development', 'Frameworks', 'Javascript'],
+  },
+  {
+    title: 'Swift',
+    compentency: 3,
+    category: ['Mobile Development', 'Frameworks'],
   },
   {
     title: 'Bootstrap',
@@ -161,13 +171,28 @@ export const skills = [
     category: ['Languages'],
   },
   {
+    title: 'unity',
+    compentency: 3,
+    category: ['Game Development'],
+  },
+  {
+    title: 'OpenGL',
+    compentency: 3,
+    category: ['Game Development'],
+  },
+  {
+    title: 'pygame',
+    compentency: 3,
+    category: ['Game Development', 'Python'],
+  },
+  {
     title: 'Photoshop',
     compentency: 2,
     category: ['Design'],
   },
   {
     title: 'Wireframing',
-    compentency: 3,
+    compentency: 2,
     category: ['Design', 'Web Development'],
   },
   {

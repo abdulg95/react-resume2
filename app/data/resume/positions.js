@@ -49,9 +49,9 @@ const positions = [
     link: 'https://devpost.com/software/enviro-bin',
     daterange: 'February 2019',
     points: [
-      'won prize for mobile app that classifies garbage and give instructions for recycling',
-      'integrated app with google vision api for classification of garbage objects.',
-      'integrated classified data with information from toronto waste management api.',
+      'Won prize for mobile app that takes pictures of garbage and gives instructions for recycling',
+      'Integrated app with google vision api for classification of garbage objects.',
+      'Parsed classified data from google vision api along with information from toronto waste management api in backend.',
     ],
   },
 ];

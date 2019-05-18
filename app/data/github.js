@@ -46,7 +46,7 @@ const data = [
     label: 'Last updated at',
     key: 'pushed_at',
     value: dayjs().format('MMMM D, YYYY'),
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/abdulg95/react-resume2/commits',
   },
   { /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */

@@ -1,42 +1,32 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Enviro-bin',
+    subtitle: '2019 UOttawa Hackathon',
+    link: 'https://devpost.com/software/enviro-bin',
+    image: '/images/projects/recycle.jpg',
+    date: '2019-02-09',
+    desc: 'Environmental project built for a hackathon. '
+      + 'The app takes pictures of garbage.'
+      + 'Recognizes objects which are garbage, classifies it and gives users instructions on '
+      + 'how to safely dispose or recycle the garbage and gives rewards for participating'
+      + 'The app also gives users the option of uploading to snapchat with captions'
+      + 'and filters showing they recycled.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Toronto waste lookup',
+    subtitle: 'A react app to lookup quries to the Toronto waste management system',
+    link: 'https://abdulg95.github.io/shopify-web-engineer-challenge/',
+    image: '/images/projects/recycle.jpg',
+    date: '2019-01-20',
+    desc: 'looks up recycling instructions. '
+      + 'Later repurposed for hackathon project',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    title: 'Robo friends',
+    subtitle: 'React demo.',
+    link: 'https://abdulg95.github.io/robofriends/',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    desc: 'card lookup I used to learn react ',
   },
 ];
 

@@ -1,83 +1,59 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+Hi, I'm Abdul and I am a freelance developer. I mainly do web and mobile development but I also develop games as a hobby. I love learning new things and growing as a person. I am currently learning data science and Japanese. I consider myself an environmentalist.
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusively, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
-<br><br>
-#### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+I am available to consult on interesting projects and for remote work.  My skills are balanced between front end to back end development. I enjoy each aspect, and love building sites & mobile apps from start to finish for clients.
 <br><br>
 #### Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- I was born in Nigeria and spent most of my early life in the country. I had always been obsessed with computer games. Growing up, I remember we had an old desktop that ran Ms Dos and my uncle who was a software engineer at the time had installed a couple games for me. My favorite games were Dangerous Dave, Doom, and Sid Meier's Civilization(although I was like 5 at the time and had no idea what was going on most of the time). 
 
 - At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- In the summer of 2005, my parents purchased my first console which was a playstation portable. Unfortunately in Nigeria, we didn't have access to a lot of newer games so my choices were limited. I got bored of playing the same 2 games everyday and so I researched online and i found out I could ["crack"](https://www.thegeeksclub.com/crack-psp-1000-2000-3000-model/) my psp and install ISO files of games(looking bad at this I'm not too proud. Piracy is bad, kids!!). I hooked it up to my computer, followed the instructions and I was able to crack the psp and fit as many games as i could into its memory stick. They were all in Japanese and I couldnt understand a thing but I was ecstatic that I had new games to play and I solved my problems with computer and my own two hands.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 12, I  moved into boarding school where would spend most of my adolescent life. Before I went to boarding school my parent got me a laptop can't remember which one it was but it was one of those shine hp laptops. As usual when I wasn't practising maths or reading up on physics I was playing games on my laptop. I also started making mods for GTA San Andreas and minecraft which i distributed to my friends. I really had a great time making those.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- Couple years later I was just about done with secondary school and I wasn't sure exactly where i was going career wise, I just knew I wanted to do something with games. I ended up moving to Canada where I re-did my final year of high school because not all my credits transferred. However I am extremely grateful for this because it was during my art skills were subpar but I took an AP computer science class and I fell in love with coding. 
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- At university , I was able to explore various parts of computer science with my electives. I also really appreciated the mindset game development gave me, it really influenced the way I coded and the approach I took to solving problems.
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
+- In my second year of university, I started going for game jams and hackathons. I loved this because it took my head out of an academic space and I worked on projects that were fun because I wanted to and not because I had to meet a deadline for a grade.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- Fast forward to the present, I graduate from university next month, and I'm about to step into the job market. I'm looking forward to what the future holds and I'll be back to update this section from time to time.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+You can ask me in person for other stories if you'd like to know more about me
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
+- Anime and manga
+- Soccer
+- Winter
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils
+- Bodybuilding
+- Japanese music/ Chengdu rap
 - NPR podcasts
-- [Photography](https://instagram.com/dangelosaurus)
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I am from originally from Lagos,Nigeria. I have since lived in
+Germany and Canada.
 
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- I've been to 2 other countries and I'm eager to travel the world and have new experiences.
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+- Not sure if I'll be able to travel this year but I plan to be in Japan for the 2020 olympics.
 
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I plan to visit: the U.K., France, Canada, Australia, Chile, Nepal, and Norway.
-
-- I am an Oregon Trail II enthusiast.
+- I would also like to visit Australia, Singapore and Amsterdam, sometime in the future.
 
 #### Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
+- I was born on Christmas day.
+- I made this site so personal because my girlfriend complained that the last version was just a bland resume.
+- I have watched an unhealthy amount of anime and read more manga and [manhwas](https://en.wikipedia.org/wiki/Manhwa) than i can recall.
 - I added this page because so many people complained that my site was just a resume.
+- Bee population is still declining but you can help. click [here](http://sos-bees.org) to learn more.
 
 #### I dream of
-- always finding inspiration.
-- enabling a brighter future.
+- Being able to contribute towards a greener future and preserving life on this planet, possibly through computer science projects.
 - doing better.
-- no one checking my commit history for early drafts of this file.
+- Never reaching the point where I can't learn anymore
+- Eventually going into a game dev startup at a later point in my life.
