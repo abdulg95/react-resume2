@@ -36,6 +36,14 @@ export const categories = [
     name: 'Web Development',
     color: '#cc7b94',
   },
+  {
+    name: 'Game Development',
+    color: '#f4a742',
+  },
+  {
+    name: 'Mobile Development',
+    color: '#5f1049',
+  },
 ];
 
 export const skills = [
