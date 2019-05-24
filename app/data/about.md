@@ -12,9 +12,9 @@ I am available to consult on interesting projects and for remote work.  My skill
 
 - In the summer of 2005, my parents purchased my first console which was a playstation portable. Unfortunately in Nigeria, we didn't have access to a lot of newer games so my choices were limited. I got bored of playing the same 2 games everyday and so I researched online and i found out I could ["crack"](https://www.thegeeksclub.com/crack-psp-1000-2000-3000-model/) my psp and install ISO files of games(looking bad at this I'm not too proud. Piracy is bad, kids!!). I hooked it up to my computer, followed the instructions and I was able to crack the psp and fit as many games as i could into its memory stick. They were all in Japanese and I couldnt understand a thing but I was ecstatic that I had new games to play and I solved my problems with computer and my own two hands.
 
-- At 12, I  moved into boarding school where would spend most of my adolescent life. Before I went to boarding school my parent got me a laptop can't remember which one it was but it was one of those shine hp laptops. As usual when I wasn't practising maths or reading up on physics I was playing games on my laptop. I also started making mods for GTA San Andreas and minecraft which i distributed to my friends. I really had a great time making those.
+- At 12, I  moved into boarding school where I would spend most of my adolescent life. Before I went to boarding school my parent got me a laptop can't remember which one it was but it was one of those shine hp laptops. As usual when I wasn't practising maths or reading up on physics I was playing games on my laptop. I also started making mods for GTA San Andreas and minecraft which i distributed to my friends. I really had a great time making those.
 
-- Couple years later I was just about done with secondary school and I wasn't sure exactly where i was going career wise, I just knew I wanted to do something with games. I ended up moving to Canada where I re-did my final year of high school because not all my credits transferred. However I am extremely grateful for this because it was during my art skills were subpar but I took an AP computer science class and I fell in love with coding. 
+- Couple years later I was just about done with secondary school and I wasn't sure exactly where i was going career wise, I just knew I wanted to do something with games. I ended up moving to Canada where I re-did my final year of high school because not all my credits transferred. However I am extremely grateful for this because it was during time here that my art skills were subpar but I took an AP computer science class and I fell in love with coding. 
 
 - At university , I was able to explore various parts of computer science with my electives. I also really appreciated the mindset game development gave me, it really influenced the way I coded and the approach I took to solving problems.
 
@@ -49,7 +49,6 @@ Germany and Canada.
 - I was born on Christmas day.
 - I made this site so personal because my girlfriend complained that the last version was just a bland resume.
 - I have watched an unhealthy amount of anime and read more manga and [manhwas](https://en.wikipedia.org/wiki/Manhwa) than i can recall.
-- I added this page because so many people complained that my site was just a resume.
 - Bee population is still declining but you can help. click [here](http://sos-bees.org) to learn more.
 
 #### I dream of
