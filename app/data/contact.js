@@ -32,7 +32,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:abdulysufu@cmail.carleton.ca',
+    link: 'mailto:ay@nortacdefence.com',
     label: 'Email',
     icon: faEnvelope,
   },

@@ -20,7 +20,7 @@ I am available to consult on interesting projects and for remote work.  My skill
 
 - In my second year of university, I started going for game jams and hackathons. I loved this because it took my head out of an academic space and I worked on projects that were fun because I wanted to and not because I had to meet a deadline for a grade.
 
-- Fast forward to the present, I graduate from university next month, and I'm about to step into the job market. I'm looking forward to what the future holds and I'll be back to update this section from time to time.
+- I graduated from university in 2019, and I work at a software company in Ottawa, Ontario
 
 You can ask me in person for other stories if you'd like to know more about me
 <br><br>
@@ -29,7 +29,7 @@ You can ask me in person for other stories if you'd like to know more about me
 - Soccer
 - Winter
 - Summer
-- Bodybuilding
+- Bodybuilding/Calisthenics
 - Japanese music/ Chengdu rap
 - NPR podcasts
 
@@ -40,7 +40,7 @@ Germany and Canada.
 
 - I've been to 2 other countries and I'm eager to travel the world and have new experiences.
 
-- Not sure if I'll be able to travel this year but I plan to be in Japan for the 2020 olympics.
+- Not sure if I'll be able to travel this year but I plan to be in Japan for the 2020 olympics(Update: due to the pandemic. It didn't happen :( ).
 
 - I would also like to visit Australia, Singapore and Amsterdam, sometime in the future.
 

@@ -54,6 +54,21 @@ const positions = [
       'Parsed classified data from google vision api along with information from toronto waste management api in backend.',
     ],
   },
+  {
+    company: 'Nortac Defence',
+    position: 'Backend developer',
+    link: 'https://nortacdefence.com',
+    daterange: 'July 2019 – Present',
+    points: [
+      'Expanded on and .net message handler back end by creating open API for tracking functions giving company increased marketing options',
+      'Meticulously documented all new developments',
+      'Identified parts of system that could be extracted and dockeriUed into microservices reducing load on servers',
+      'Created database migrations for updates to our system ensuring no corruption of db or data loss',
+      'Expanded on regression test plans for Load Testing Automation Utility for QA team to simulate different devices for load testing the C# message handler application',
+      'Secured messages with Industry standard Encryption protocols and custom packet encoding',
+      'Worked with support team to provide deep support for technical issues reported by clients',
+    ],
+  },
 ];
 
 export default positions;
