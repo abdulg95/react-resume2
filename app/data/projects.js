@@ -28,6 +28,15 @@ const data = [
     date: '2015-06-28',
     desc: 'card lookup I used to learn react ',
   },
+  {
+    title: 'Image Gallery App',
+    subtitle: 'An image repository that allows you to upload images and view other users images as well',
+    link: 'https://github.com/abdulg95/shopifybackendwebchallenge',
+    image: '/images/projects/image_upload.png',
+    date: '2020-07-20',
+    desc: 'MERN stack app '
+      + 'secure uploading of images',
+  },
 ];
 
 export default data;
